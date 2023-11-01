@@ -1,0 +1,22 @@
+schema-version: 1.0
+
+dependencies:
+  - openssl
+  - ncurses
+  - expect
+
+builders:
+  - lsof
+  - libtool
+  - autoconf
+  - flex
+  - bison
+  - zstd
+  - binutils
+  - pcre
+  - gmp
+  - acl
+  - dejagnu
+  - xmlparser
+  - libelf
+
