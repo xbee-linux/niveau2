@@ -6,6 +6,7 @@ dependencies:
   - expect
 
 builders:
+  - tar
   - lsof
   - libtool
   - autoconf
