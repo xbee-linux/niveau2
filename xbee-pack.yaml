@@ -20,4 +20,6 @@ builders:
   - dejagnu
   - xmlparser
   - libelf
+  - libpng
+
 
