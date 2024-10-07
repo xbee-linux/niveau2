@@ -1,11 +1,11 @@
 schema-version: 1.0
 
-dependencies:
+dependency:
   - openssl
   - ncurses
   - expect
 
-builders:
+builder:
   - tar
   - lsof
   - libtool
